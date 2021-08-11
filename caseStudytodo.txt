@@ -1,1 +1,16 @@
-ECHO is on.
+
+//TODO//
+DB
+1a.Create an official database schema and include important fields such as ID
+1b.Think about the relationships the tables share with each other
+1c.Implement the database schema to code
+1d.Test SQL code
+
+
+HTML
+2a. Plan how the application will look like, Draw it out/map it out
+2b. Create the html files for the Login Page, Register Page, Dashboard page
+
+
+
+Spring
